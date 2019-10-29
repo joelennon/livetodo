@@ -1,0 +1,6 @@
+# Getting started...
+
+- [x] Install this extension
+- [ ] ???
+- [ ] Profit!
+- [x] Read from a file instead...
